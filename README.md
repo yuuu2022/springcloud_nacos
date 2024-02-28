@@ -1,2 +1,2 @@
 # springcloud_nacos
-this is a project with nacos
+this is a springcloud project with nacos
